@@ -1,2 +1,5 @@
-# Learning-Material-.-
-All the Corresponding Material for the development should be made here , with links . 
+# Learning Source :
+
+1. Created a gmail account , for dialogflow and firebase . 
+> Mail : cts.student.club.sjit@gmail.com
+> Pass : github123!
